@@ -23,8 +23,8 @@ Los archivos compilados pueden ser buscados en la carpeta `/build`.
 
 ## Funcionalidad
 
-- exibe arquivos de `.css` `.js` `.jpg` `.png` e `.gif` do servidor local
-- gera arquivos de `.css` a partir de arquivos `.less`
+- muestra los archivos del `.css` `.js` `.jpg` `.png` y `.gif` del servidor local
+- gera archivos `.css` a partir de arquivos `.less`
 - gera arquivos de `.js` a partir de arquivos `.coffee`
 - gera um `.min.css` de cada `.css`
 - gera um `all.min.css` com todos os `.min.css`

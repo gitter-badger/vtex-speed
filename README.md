@@ -1,4 +1,4 @@
-# VTEX Speed
+# VTEX Speed [![Build Status](https://travis-ci.org/VtexLatam/vtex-speed.svg?branch=master)](https://travis-ci.org/VtexLatam/vtex-speed)
 
 O VTEX Speed es un boilerplate del Grunt para E-commerces VTEX.
 

@@ -1,27 +1,27 @@
 # VTEX Speed
 
-O VTEX Speed é um boilerplate do Grunt para E-commerces VTEX.
+O VTEX Speed es un boilerplate del Grunt para E-commerces VTEX.
 
-Requer [Node](http://nodejs.org/) e [Grunt](http://gruntjs.com/) (`npm i -g grunt-cli`).
+Requer [Node](http://nodejs.org/) y [Grunt](http://gruntjs.com/) (`npm i -g grunt-cli`).
 
 ## Configure
 
-### Insira os dados da sua loja
+### Carge los datos de su tienda.
 
-No arquivo `remote.json` mude o texto `sitename` para o nome da sua loja nas chaves `remote.host` e `proxy.host`.
+En el archivo `remote.json` cambie el texto `sitename` por el nombre de su tienda en las claves `remote.host` y `proxy.host`.
 
-### Instale as dependências do npm
+### Instale los archivos del npm
     npm i
 
-## Inicie o VTEX Speed
+## Empese el VTEX Speed
 
     (sudo) grunt
 
-## Divirta-se! :)
+## Suerte! :)
 
-Os arquivos compilados podem ser encontrados na pasta `/build`.
+Los archivos compilados pueden ser buscados en la carpeta `/build`.
 
-## Funcionalidades
+## Funcionalidad
 
 - exibe arquivos de `.css` `.js` `.jpg` `.png` e `.gif` do servidor local
 - gera arquivos de `.css` a partir de arquivos `.less`

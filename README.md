@@ -21,7 +21,7 @@ En el archivo `remote.json` cambie el texto `sitename` por el nombre de su tiend
 
 Los archivos compilados pueden ser buscados en la carpeta `/build`.
 
-## Agradecimento
+## Agradecimento!
 
 VTEX Speed foi inspirado no [Speedbag](https://github.com/vtex/speedbag). Obrigado ao [Guilherme Rodrigues](https://github.com/gadr90), pai do Speedbag.
 
